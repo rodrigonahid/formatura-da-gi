@@ -58,7 +58,7 @@ export default function Home() {
 
   if (status === "success") {
     return (
-      <main style={{ minHeight: "100vh", background: "#f5f0e8", display: "flex", alignItems: "center", justifyContent: "center", padding: "24px" }}>
+      <main style={{ minHeight: "100vh", background: "#f5f0e8", display: "flex", alignItems: "center", justifyContent: "center", padding: "12px" }}>
         <div className="fade-in" style={{ maxWidth: "400px", width: "100%", textAlign: "center" }}>
           <div style={{ background: "#fff", border: "1.5px solid #c8c4aa", borderRadius: "14px", padding: "40px 32px" }}>
             <span style={{ display: "inline-block", background: "#6b8f71", color: "#e8f0e8", padding: "5px 14px", borderRadius: "99px", fontSize: "13px", letterSpacing: "1px", marginBottom: "20px" }}>
@@ -73,7 +73,7 @@ export default function Home() {
   }
 
   return (
-    <main style={{ minHeight: "100vh", background: "#f5f0e8", display: "flex", alignItems: "center", justifyContent: "center", padding: "24px" }}>
+    <main style={{ minHeight: "100vh", background: "#f5f0e8", display: "flex", alignItems: "center", justifyContent: "center", padding: "12px" }}>
       <div className="fade-in" style={{ maxWidth: "400px", width: "100%" }}>
 
         <div style={{ background: "#fff", border: "1.5px solid #c8c4aa", borderRadius: "14px", padding: "12px" }}>
