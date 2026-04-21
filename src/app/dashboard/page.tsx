@@ -70,7 +70,7 @@ export default async function Dashboard() {
                   )}
 
                   {guest.message && (
-                    <p className="text-sm text-gray-500 mt-1.5 italic">"{guest.message}"</p>
+                    <p className="text-sm text-gray-500 mt-1.5 italic">&ldquo;{guest.message}&rdquo;</p>
                   )}
                 </div>
               </div>

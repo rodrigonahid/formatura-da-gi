@@ -76,7 +76,7 @@ export default function Home() {
     <main style={{ minHeight: "100vh", background: "#f5f0e8", display: "flex", alignItems: "center", justifyContent: "center", padding: "24px" }}>
       <div className="fade-in" style={{ maxWidth: "400px", width: "100%" }}>
 
-        <div style={{ background: "#fff", border: "1.5px solid #c8c4aa", borderRadius: "14px", padding: "24px" }}>
+        <div style={{ background: "#fff", border: "1.5px solid #c8c4aa", borderRadius: "14px", padding: "12px" }}>
 
           {/* Header */}
           <div style={{ textAlign: "center", marginBottom: "22px" }}>
