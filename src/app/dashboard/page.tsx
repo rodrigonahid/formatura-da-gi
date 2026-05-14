@@ -24,7 +24,7 @@ export default async function Dashboard() {
       <div className="max-w-2xl mx-auto">
         <div className="mb-8">
           <h1 className="font-display text-3xl font-bold text-[#2d6a4f]">
-            Formatura da Gi 🎓
+            🎓 Formatura da Gi
           </h1>
           <p className="text-[#40916c] mt-1">
             <span className="font-semibold">{guests.length}</span> confirmação{guests.length !== 1 ? "s" : ""}{" "}

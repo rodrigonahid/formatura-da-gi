@@ -81,7 +81,7 @@ export default function Home() {
           {/* Header */}
           <div style={{ textAlign: "center", marginBottom: "22px" }}>
             <span style={{ display: "inline-block", background: "#6b8f71", color: "#e8f0e8", padding: "5px 14px", borderRadius: "99px", fontSize: "13px", letterSpacing: "1px", marginBottom: "14px" }}>
-              ✦ FORMATURA 2025 ✦
+              ✦ FORMATURA 2026 ✦
             </span>
             <p style={{ fontSize: "22px", fontWeight: 500, color: "#1f3528", margin: "0 0 6px" }}>
               Confirme sua presença
@@ -233,7 +233,7 @@ export default function Home() {
         </div>
 
         <p style={{ textAlign: "center", fontSize: "13px", color: "#8a9e8c", marginTop: "16px" }}>
-          Festa da Gi &mdash; 2025
+          Festa da Gi &mdash; 2026
         </p>
 
       </div>
